@@ -1,6 +1,8 @@
 # Scroll-Helper
 The scripts are designed to control swipes through your pc's webcam.
-Еhe picture will explain the motion processing algorithm, the whole hand is an array of points.
+The picture will explain the motion processing algorithm, the whole hand is an array of points.
+
+
 ![123](https://github.com/molecula112/Scroll-Helper/assets/72953386/9d72502d-0da5-4b0e-84b3-2a1faba8493a)
 
 
