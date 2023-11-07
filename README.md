@@ -8,5 +8,7 @@ The picture will explain the motion processing algorithm, the whole hand is an a
 
 P.S. At the moment the implementation works as follows - place 2 fingers horizontally on the webcam, with your palm facing the webcam, and when you increase the range by 20 degrees, you get a swipe
 
+P.S.S. Now there is a bug that scrolling only works up
+
 
 
